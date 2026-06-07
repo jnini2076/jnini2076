@@ -44,6 +44,7 @@ Rebuilding the frontend of my full-stack coffee app in **React** to broaden my f
 
 ## 📚 Currently Learning
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -65,13 +66,8 @@ A serverless contact form with automated email notifications, fully deployed on 
 
 [![Live](https://img.shields.io/badge/Live_Site-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://d1crndrqp2u3l6.cloudfront.net/)
 
----
 
-## 📊 GitHub Stats
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnini2076&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jnini2076&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
